@@ -1,0 +1,30 @@
+{
+  "provider": "Higgsfield",
+  "status": "not-configured",
+  "hero": {
+    "src": null,
+    "expected": "hero-network.mp4"
+  },
+  "feature": {
+    "src": null,
+    "expected": "feature-terminal.webp"
+  },
+  "projects": {
+    "hotel": {
+      "src": null,
+      "expected": "project-hotel.webp"
+    },
+    "space": {
+      "src": null,
+      "expected": "project-space.webp"
+    },
+    "client": {
+      "src": null,
+      "expected": "project-client.webp"
+    },
+    "links": {
+      "src": null,
+      "expected": "project-links.webp"
+    }
+  }
+}

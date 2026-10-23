@@ -1,0 +1,1 @@
+Optional media files belong here. See `docs/media-prompts.md` for six example prompts and filenames. Activate your own files in `src/data/media-manifest.json`. No personal project screenshots or certificate images are included.
